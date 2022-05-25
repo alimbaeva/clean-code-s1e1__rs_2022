@@ -40,7 +40,7 @@ body {
     flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-task__wrapper {
     display: flex;
 }
 
@@ -109,7 +109,7 @@ input[type="text"]:focus {
     margin: 0 0 20px;
 }
 
-#new-task {
+.add-task__input {
     width: 318px;
 }
 
