@@ -164,11 +164,11 @@ li input[type=text] {
     display: none;
 }
 
-li.edit-mode input[type=text] {
+.edit-mode input[type=text] {
     display: inline-block;
     width: 224px;
 }
 
-li.edit-mode label {
+.edit-mode label {
     display: none;
 }
