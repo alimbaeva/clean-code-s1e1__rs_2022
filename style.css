@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.to-do {
     background-color: #f8f8f8;
     color: #333;
     font-family: Lato, sans-serif;
@@ -164,11 +164,11 @@ li input[type=text] {
     display: none;
 }
 
-li.edit-mode input[type=text] {
+.edit-mode input[type=text] {
     display: inline-block;
     width: 224px;
 }
 
-li.edit-mode label {
+.edit-mode label {
     display: none;
 }
